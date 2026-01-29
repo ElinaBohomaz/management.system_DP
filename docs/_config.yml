@@ -1,1 +1,5 @@
- remote_theme: pages-themes/cayman@v0.2.0:
+remote_theme: pages-themes/cayman@v0.2.0
+
+title: Інформаційна система управління графіків та змін персоналу
+description: Кваліфікаційна робота фахового молодшого бакалавра (ВСП «ППФК НТУ «ХПІ»)
+author: Еліна Богомаз
