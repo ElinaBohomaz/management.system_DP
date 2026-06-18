@@ -10,6 +10,6 @@
 - Середовище розробки IntelliJ IDEA;
 - Графічний інтерфейс користувача - JavaFX;
 - База даних - SQLite.
-
+- 
 ## Опублікований продукт
-Інсталяційний пакет створеної гри можна завантажити... 
+Інсталяційний пакет створеної гри можна [завантажити](https://github.com/ElinaBohomaz/management.system_DP/tree/main/Duty/installer/DutyApp).
